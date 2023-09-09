@@ -735,6 +735,7 @@ textarea{
     bottom:1%;
     color:#535c87;
     font-size: 5rem;
+    user-select: none;
 
 }
 .links{
